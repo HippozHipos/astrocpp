@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/devCalciumSig/astrocytes_in_Cpp-main/astrocytes_in_Cpp-main/out/build/x64-Debug/CMakeFiles/main.dir/embed.manifest"
